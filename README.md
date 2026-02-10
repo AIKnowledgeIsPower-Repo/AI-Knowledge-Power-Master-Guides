@@ -2,7 +2,7 @@
 
 ## 🌐 Empowering the world through Sovereign Intelligence and Secure Workflows.
 
-![Banner](images/GitHub English.jpg)
+![Banner]([images/GitHub English.jpg](https://github.com/AIKnowledgeIsPower-Repo/AI-Knowledge-Power-Master-Guides/blob/main/images/GitHub%20English.jpg))
 
 Welcome to the official repository for **@AIKnowledgeIsPower**. This space is dedicated to providing high-level technical insights into the future of Intelligence.
 
