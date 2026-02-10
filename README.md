@@ -20,7 +20,8 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 | 05 | [Road to Singularity: Preparing for AGI](./en/05-singularity-agi.md) | Singularity | ⏳ Next |
 
 ## 🛡️ Educational Disclaimer
-All content is for educational purposes. Always use sandboxed environments for autonomous agents.
+Always use sandboxed environments for autonomous agents.
+All content is for educational purposes. 
 
 ---
 **Knowledge is the ultimate power.**
