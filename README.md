@@ -14,7 +14,7 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 | ID | Topic / Guide Title | Status | Resource |
 | :--- | :--- | :--- | :--- |
 | 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 02 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) ||
+| 02 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
