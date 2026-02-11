@@ -13,7 +13,7 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 ## 📅 2026 Roadmap: 50 Pro Guides
 | ID | Topic / Guide Title | Status | Resource |
 | :--- | :--- | :--- | :--- |
-| 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](https://github.com/AIKnowledgeIsPower/Guides/blob/main/guides/01-sovereign-slm-deployment.md) |
+| 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
 | 02 | AI Ethics & Audit Framework | ✅ Released | [Read Guide](https://github.com/AIKnowledgeIsPower/Guides/blob/main/guides/02-ai-ethics-audit-framework.md) ||
 
 ## 🛡️ Educational Disclaimer
