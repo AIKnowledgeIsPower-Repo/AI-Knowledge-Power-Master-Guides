@@ -11,13 +11,10 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 - **Cybersecurity & IT Best Practices (20%):** AI Red Teaming, Sandboxing, and Zero-Trust architectures.
 
 ## 📅 2026 Roadmap: 50 Pro Guides
-| Week | Guide Title | Category | Status |
+| ID | Topic / Guide Title | Status | Resource |
 | :--- | :--- | :--- | :--- |
-| 01 | [Sovereign SLMs: Why Small Models are the New Gold](./en/01-sovereign-slms.md) | AI Sovereignty | ✅ Done |
-| 02 | [Agentic Python: Workflows That Execute Themselves](./en/02-agentic-python.md) | AI / Dev | ✅ Done |
-| 03 | [GitHub for AI Devs: Mastering Version Control](./en/03-github-workflow.md) | IT Practices | ✅ Done |
-| 04 | [AI Cybersecurity: Defending Against Autonomous Threats](./en/04-ai-cybersecurity.md) | Security | ⏳ Next |
-| 05 | [Road to Singularity: Preparing for AGI](./en/05-singularity-agi.md) | Singularity | ⏳ Next |
+| 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](https://github.com/AIKnowledgeIsPower/Guides-2026/blob/main/guides/01-sovereign-slm-deployment.md) |
+| 02 | AI Ethics & Audit Framework | ✅ Released | [Read Guide](https://github.com/AIKnowledgeIsPower/Guides-2026/blob/main/guides/02-ai-ethics-audit-framework.md) ||
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
