@@ -10,11 +10,12 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 - **Digital Transformation (20%):** Implementing autonomous workflows in global industries.
 - **Cybersecurity & IT Best Practices (20%):** AI Red Teaming, Sandboxing, and Zero-Trust architectures.
 
-## 📅 2026 Roadmap: 50 Pro Guides
+## 📅 2026 Roadmap: Pro Guides
 | ID | Topic / Guide Title | Status | Resource |
 | :--- | :--- | :--- | :--- |
 | 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
 | 02 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 03 | Unified Omni-Model Architectures & NIST Risk Integration | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
