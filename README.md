@@ -11,22 +11,22 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 - **Cybersecurity & IT Best Practices (20%):** AI Red Teaming, Sandboxing, and Zero-Trust architectures.
 
 ## 📅 2026 Roadmap: Pro Guides
-| ID | Topic / Guide Title | Status | Resource |
+| ID | Pillar | Topic / Guide Title | Resource |
 | :--- | :--- | :--- | :--- |
-| 01 | Agentic AI & The Reasoning Revolution | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 02 | Sovereign AI & Localized Infrastructure | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
-| 03 | Self-Verification & The Death of Hallucination | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
-| 04 | Persistent Memory & Contextual Continuity | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 05 | English as the New Programming Language | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
-| 06 | World Models & Spatial Intelligence | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
-| 07 | The ROI Pivot: From AI Pilots to Industrial Scale | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
-| 08 | The Industrial Metaverse & AI-Native Twins | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 09| Post-Quantum Cryptography (PQC) Migration Strategy | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
-| 10 | Autonomous Threat Hunting with Agentic SOAR | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 01 | AI | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 02 | AI | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 03 | AI | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 04 | AI | Persistent Memory & Contextual Continuity | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 05 | AI | English as the New Programming Language | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 06 | AI | World Models & Spatial Intelligence | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 07 | DX | The ROI Pivot: From AI Pilots to Industrial Scale | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 08 | DX | The Industrial Metaverse & AI-Native Twins | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 09 | Cyber | Post-Quantum Cryptography (PQC) Migration Strategy | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 10 | Cyber | Autonomous Threat Hunting with Agentic SOAR | [Read Guide](guides/03-unified-omni-model-arch.md) |
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
-All content is for educational purposes. 
+All content is for educational purposes.
 
 ---
 **Knowledge is the ultimate power.**
