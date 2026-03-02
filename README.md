@@ -13,12 +13,12 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 ## 📅 2026 Roadmap: Pro Guides
 | ID | Topic / Guide Title | Status | Resource |
 | :--- | :--- | :--- | :--- |
-| 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 02 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
-| 03 | Unified Omni-Model Architectures & NIST Risk Integration | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
-| 04 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
-| 05 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
-| 06 | Unified Omni-Model Architectures & NIST Risk Integration | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 01 | Agentic AI & The Reasoning Revolution | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 02 | Sovereign AI & Localized Infrastructure | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 03 | The ROI Pivot: From AI Pilots to Industrial Scale | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 04 | The Industrial Metaverse & AI-Native Twins | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 05 | Post-Quantum Cryptography (PQC) Migration Strategy | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 06 | Autonomous Threat Hunting with Agentic SOAR | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
