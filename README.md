@@ -16,6 +16,9 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 | 01 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
 | 02 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
 | 03 | Unified Omni-Model Architectures & NIST Risk Integration | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 04 | Deploying Sovereign SLMs | ✅ Released | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 05 | Agentic Python & Autonomous Workflows | ✅ Released | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
+| 06 | Unified Omni-Model Architectures & NIST Risk Integration | ✅ Released | [Read Guide](guides/03-unified-omni-model-arch.md) |
 
 ## 🛡️ Educational Disclaimer
 Always use sandboxed environments for autonomous agents.
