@@ -6,9 +6,9 @@
 Welcome to the official repository for **@AIKnowledgeIsPower**. This space is dedicated to providing high-level technical insights into the future of Intelligence.
 
 ## 🎯 Our 2026 Focus
-- **Sovereign Intelligence (60%): Moving beyond cloud dependency. We specialize in on-premise SLM deployment, recursive optimization, and Singularity-ready frameworks.
-- **Industrial Autonomy (20%): Turning AI pilots into production-scale autonomous agents. We focus on the intersection of Digital Transformation and Agentic Python.
-- **Adversarial Defense (20%): Securing the future of IT. Our focus remains on AI Red Teaming, sandboxed execution environments, and post-quantum security best practices.
+- Sovereign Intelligence (60%): Moving beyond cloud dependency. We specialize in on-premise SLM deployment, recursive optimization, and Singularity-ready frameworks.
+- Industrial Autonomy (20%): Turning AI pilots into production-scale autonomous agents. We focus on the intersection of Digital Transformation and Agentic Python.
+- Adversarial Defense (20%): Securing the future of IT. Our focus remains on AI Red Teaming, sandboxed execution environments, and post-quantum security best practices.
 
 ## 📅 2026 Roadmap: Pro Guides
 | ID | Pillar | Topic / Guide Title | Resource |
