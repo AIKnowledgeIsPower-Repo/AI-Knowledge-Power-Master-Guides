@@ -13,7 +13,7 @@ Welcome to the official repository for **@AIKnowledgeIsPower**. This space is de
 ## 📅 2026 Roadmap: Pro Guides
 | ID | Pillar | Topic / Guide Title | Resource |
 | :--- | :--- | :--- | :--- |
-| 01 | AI | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-sovereign-slm-deployment.md) |
+| 01 | AI | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
 | 02 | AI | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-agentic-python-autonomous-workflows.md) |
 | 03 | AI | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
 | 04 | AI | Persistent Memory & Contextual Continuity | [Read Guide](guides/01-sovereign-slm-deployment.md) |
