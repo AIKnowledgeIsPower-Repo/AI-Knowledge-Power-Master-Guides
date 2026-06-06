@@ -1,4 +1,4 @@
-# 🚀 @AIKnowledgeIsPower - 2026 Master Guides
+# 🚀 @EnterpriseTechBrief - 2026 Master Guides
 
 ## 🧠 Empowering Global Innovation through Sovereign Intelligence and Secure Autonomous Workflows.
 
